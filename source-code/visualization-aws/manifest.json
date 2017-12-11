@@ -1,0 +1,15 @@
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "https://s3.amazonaws.com/testuseraj/output/out.csv"
+            ]
+        }
+    ],
+	"globalUploadSettings": {
+		"format": "CSV",
+	 	"delimiter": ",",
+        	"textqualifier": "\""
+	
+    }
+}
